@@ -1,0 +1,149 @@
+{
+  "researchSimulation": {
+    "config": {
+      "autocomplete": true,
+      "multiple": true,
+      "prelimitKeywords": true
+    },
+    "cues": [
+      {
+        "id": 1,
+        "title": "Informationen zur Finanzlage und Liquidität",
+        "keywords": "Finanzen; Beleihung; Darlehen; Darlehensaufnahme; Darlehensgeberin; Darlehensrückzahlung; Darlehensvereinbarung; Darlehensvertrag; Darlehenszusage; Finanzierung; Finanzlage; flüssiges Geld; Fonds; Geld; Geldmittelbestand; Geldverfügbarkeit; Gläubigerin; Kreditaufnahme; Kreditausfall; Kreditausfälle; Kredite; Kreditfazilität; Kreditgeberin; Kreditlinie; Kreditrahmen; Kreditrückzahlung; Kreditverbindlichkeiten; Kreditvereinbarung; Kreditvertrag; Kreditzusage; Liquidität; Monatsrate; Pfandrechte; Ratenzahlungen; Rückzahlung; Schulden; Schuldnerin; Sicherheiten; Sicherungsübereignung; tilgen; Tilgung; Zahlungsausfall; Zahlungsausfälle",
+        "url": "./pdfs/cues/01.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Langfristige Schulden ",
+        "keywords": "Zinsaufwendungen; Annuität; ausgegebene Anleihe; Bankenfinanzierung; Bankverbindlichkeiten; Darlehen; Darlehensgeberin; Darlehn; Darlehnsgeberin; finanzielle Verbindlichkeiten; Finanzinstrument; Fremdkapitalinstrument; Fälligkeit; Geldinstitute; Gläubiger; Kredit; Kreditanstalten; Kredite; Kreditfazilität; Kreditfazilitäten; Kreditgeberin; Kreditinstitute; Kreditlinie; Kreditorin; langfristige Schulden; langfristige Verbindlichkeiten; langfristige Verschuldung; Ratenkredit; Schuldnerin; Schuldschein; Zinssatz; Zinszahlung",
+        "url": "./pdfs/cues/02.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Ereignisse nach dem Abschlussstichtag",
+        "keywords": "2021; Annahmen; Approximation; Aufwendungen; Aufwandsentwicklung; Ausblick; Aussicht; beizulegender Zeitwert; Berechnung; Budgets; Cash-Flow-Prognosen erwartete Bilanz; Cashflow-Prognosen; Cashflowprognosen; Cash Flow Prognose; Chance; Ereignisse nach dem Abschlussstichtag; Ereignisse nach dem Bilanzstichtag; Ergebnisprognosen; erstens; erstes Quartal; erwartete Einnahmen; erwartete Finanzdaten; erwartete Gewinn- und Verlustrechnung; erwarteter Cash-Flow; erwarteter Cash Flow; erwarteter Cashflow; erwarteter Gewinn; Erwartungen; Etat; Extrapolation; Fair Value; Februar; Finanzen; Finanzmittel; Finanzprognosen; Forecast; Gewinne; Gewinnprognosen; Hochrechnung; Interpolation; Januar; Kalkulation; Kapital; Kapitalfluss; Mutmaßungen; März; nachfolgende Ereignisse; nächstes Jahr; Prognosen; prognostizierte Finanzdaten; Projektionen; Quantifizierung; Schätzung; Subsequent Events; Umsatzerlöse; Umsatzprognosen; Verluste; Vorahnungen; Voraussagen; Vorhersagen; Vorschau; Zukunft",
+        "url": "./pdfs/cues/03.pdf"
+      },
+      {
+        "id": 4,
+        "title": "Pläne des Managements zur Rückkehr in die Gewinnzone",
+        "keywords": "Annahmen; Approximation; Aufwendungen; Ausblick; Aussicht; Berechnung; Bestreben; Budget; Etat; Extrapolation; Finanzen; Finanzmittel; Gewinnzone; Hochrechnung; Idee; Informationsverarbeitung; Intention; Interpolation; Kalkulation; Kapital; Managementplan; Managementpläne; Managementprognose; Mutmaßungen; Plan-Entwicklung; Planung; Projektionen; Quantifizierung; Rationalität; Schätzung; Spannung; Subjektivität; Vorahnungen; Voraussagen; Vorausschau; Vorhaben; Vorhersage; Vorhersagen; Vorschau; vorwegnehmen; Wille; Wirtschaftsplan; Ziele; Zukunftsbezug",
+        "url": "./pdfs/cues/04.pdf"
+      },
+      {
+        "id": 5,
+        "title": "Wettbewerb",
+        "keywords": "Absprachen; Angebot; Automobilhersteller; Automobilindustrie; Automobilzulieferer; autonomes Fahren; Branche; Industriezweig; Innovation; intensiver Wettbewerb; Kartelle; kompetitiv; Konkurrenten; Konkurrenz; konkurrieren; Kontrahent; Markteintrittsbarrieren; Marktnachfrage; Marktregulierung; Marktsituation Branchenumfeld; Marktstruktur; Marktumfeld; Marktverhalten; Mitbewerber; Nachfrage; selbständiges Fahren; starker Wettbewerb; technologische Entwicklung; Wettbewerber; Wettbewerbsbeschränkungen; Wettbewerbsdruck; wettbewerbsfähig; Wettstreit; zunehmender Wettbewerb",
+        "url": "./pdfs/cues/05.pdf"
+      },
+      {
+        "id": 6,
+        "title": "Personal",
+        "keywords": "Abteilungsleiterin; Angestellter; Arbeiter; Arbeiterin; Arbeitsteilung; Austritt; Belegschaft; Beschäftigter; CEO; CFO; Chef; Chefin; COO; Direktorin; einstellen; Eintritt; entlassen; F&E; Finanzen; Finanzvorstand; Führungskraft; Führungskräfte, Führungspersonal; Geschäftsführerin; Geschäftsführung; Geschäftsleitung; HR; Humanressourcen; Leiter Forschung & Entwicklung, Leitung R&D; Leiter Marketing; Leiter Rechnungswesen; Leiterin; Leitung; Managerin; Mitarbeitende; Mitarbeiter; Mitarbeiteranzahl; Mitarbeiterin; Motivation; Partnerin; payroll; Personal; Personalbeschaffung; Personalführung; Praktikantin; Prokura; Prokuristin; Qualifikation; Senior Managerin; Stakeholder; Team; Vorgesetzter; Vorsitzender; Vorstand",
+        "url": "./pdfs/cues/06.pdf"
+      },
+      {
+        "id": 7,
+        "title": "Auftragsbestand",
+        "keywords": "Auftragsbestand; Auftragsbestände; Auftragsbuch; Auftragseingang Auftragseingänge; Auftragslage; Auftragsrückstand; Auftragsrückstände; Auftragsüberhang; Bestellungen; Bestellungsbestand; WIPs Aufträge; work in process; work in progress; work-in-process; work-in-progress",
+        "url": "./pdfs/cues/07.pdf"
+      },
+      {
+        "id": 8,
+        "title": "Rechtsstreitigkeiten",
+        "keywords": "Angeklagter; anhängige Klage; Anhängigkeit; Anwaltskosten; Beratungskosten; Beschwerde; Geldstrafe; gerichtlich; Gerichtsverfahren; Gesetz; Gesetze; Jurist; Klage erheben; Klagen; Klageweg; Klägerin; Konflikt; legal; Notarkosten; Prozess; Prozess führen; Prozessführung; Prozesskosten; rechtlich; rechtliche Schritte; Rechts- und Beratungskosten; Rechtsangelegenheit; Rechtsanspruch; Rechtsanwalt; Rechtsbehelf; Rechtsberatungskosten; Rechtsfall; Rechtskosten; rechtskräftig; Rechtssache; Rechtsstreit; Rechtsstreitigkeiten; Rechtsverfahren; Strafe; Verfahren; verklagt",
+        "url": "./pdfs/cues/08.pdf"
+      },
+      {
+        "id": 9,
+        "title": "Marketing und Vertrieb",
+        "keywords": "Abnehmerin; Absatz; Absatzmärkte; Anzeige; Auftraggeberin; B2B; Bestellerin; Distribution; Distributoren; Einzelhandel; Endnutzerin; Endverbraucherin; Großhandel; Großhändler; größter Kunde; Handel; Kunde; Kunden; Kundenorientierung; Kundenverträge; Kundenzufriedenheit; Käuferin; Marketing; Partnerschaften; sales; SWOT-Analyse; Umsatz; Umsatzerlöse; Verkauf; Vertrieb; Vertriebskanal; Vertriebskanäle; Vertriebsnetz; Vertriebspartnerin; Werbung; wichtiger Kunde; wichtigster Kunde",
+        "url": "./pdfs/cues/09.pdf"
+      },
+      {
+        "id": 10,
+        "title": "Märkte und Produkte ",
+        "keywords": "Absatzmarkt; Abteilung; Anfertigung; Automobilbeleuchtung, Marktwachstum; autonomes Fahren; Beleuchtung; Dienstleistungsmarkt; Divisionen; Elektronik;  Fahrzeugelektronik Erzeugung; Fertigstellung; Geschäftsbereich; Geschäftsfelder; Herstellung; Inventar; Konsumgüter; Markteintrittsbarrieren; Marktentwicklungsprognosen; Marktführer; Markttrends; Märkte; Produkte; Produktion; Segmente; Strategie; Waren; Warenhandel; Weltmarkt; Zielmarkt",
+        "url": "./pdfs/cues/10.pdf"
+      },
+      {
+        "id": 11,
+        "title": "Vorratsmanagement",
+        "keywords": "Bestandsbewertung; Betriebskapital; Bewertungsmethode; Bewertungsvereinfachung; Bewertungsvereinfachungsverfahren; Bewertungsverfahren; Durchschnittsmethode; fertige Leistungen; fertige Waren; FIFO; Inventar; Lagerumschlag; Nettoveräußerungswert, NRV; Rohstoffe, Work-in-Process; Umsatz; Umsatzerlöse; unfertige Erzeugnisse; unfertige Leistungen; Verbrauchsfolgeverfahren; Vorratsmanagement; Vorratsvermögen; Vorräte; Waren; Wertminderungsaufwendungen; WIPs; Work in Process; Work in Progess; Work-in-Progess; Working Capital",
+        "url": "./pdfs/cues/11.pdf"
+      },
+      {
+        "id": 12,
+        "title": "Forderungsmanagement",
+        "keywords": "Bonität; Debitoren; Debitorenmanagement; Factoring; Forderungen; Forderungen an Kunden; Forderungen aus Lieferungen und Leistungen; Forderungen aus LuL; Forderungen LuL; Forderungsmanagement; Inkassodienstleisterin; Inkassokonten; Inkassomanagement; Kundenforderungen; Lieferantenkredit; Mahnungen; Mahnverfahren; Saldenbestätigungen; Skonto; uneinbringliche Forderungen; Zahlungsausfall; Zahlungsbereitschaft; Zahlungserinnerungen; Zahlungsfähigkeit; Zahlungsmoral; Zahlungsziel",
+        "url": "./pdfs/cues/12.pdf"
+      },
+      {
+        "id": 13,
+        "title": "Produktionsstandorte",
+        "keywords": "Abschreibungen; Anlagen; Anlagevermögen; Anlagevermögensgegenstände; Anlagevermögenswerte; Anschaffungen; Bauwerk; Betrieb; Boden; Fabrikanlagen; Fabriken; Fertigungsanlagen; Fertigungskapazität; Fertigungsstandorte; Fertigungsstätte Grund; Fertigungsstätten; Fuhrpark; Gebäude; Halle; Haus; Herstellungsbetriebe; Immobilie; Infrastruktur; Lager; Lagerhalle; Maschinen; Montage; Produktionsbetriebe; Produktionsstandorte; Produktionsstätten; Sachanlagen; Werk",
+        "url": "./pdfs/cues/13.pdf"
+      },
+      {
+        "id": 14,
+        "title": "Veräußerung von Fertigungsstätten",
+        "keywords": "Anlagenbau; Anmietung; beizulegender Zeitwert; Desinvestition Veräußerungsgewinn; Dispositionen; eingestellt; Entsorgungsgruppe; Fabrik; Fabriken; Fair Value; Lease; Leaseback; Leasing-Veräußerungen; Leasingvertrag; Maschinenbau; Miete; Sale-and-Leaseback; Sale-Leaseback; Saleleaseback; Verkauf von Vermögensgegenständen; Verkauf von Vermögenswerten; Vermögenswert; Veräußerungsgruppe; Veräußerungsverlust; Werkzeugbau; zum Verkauf gehaltene Vermögensgegenstände; zum Verkauf gehaltene Vermögenswerte; zur Veräußerung gehaltene Vermögenswerte",
+        "url": "./pdfs/cues/14.pdf"
+      },
+      {
+        "id": 15,
+        "title": "Informationen zu Restrukturierungsmaßnahmen",
+        "keywords": "betriebsbedingte; Effizienzsteigerung; Kostenreduktion; Kostensenkung; Kündigungen; Mitarbeiterabfindungen; Neuausrichtungen; Neugestaltung; Neuorganisation; Personalabbau; Personalfreisetzungskosten; Reform; Renovierung; Reorganisation; reorganisieren; restrukturieren; Restrukturierung; Restrukturierungsaufwand; Restrukturierungsaufwendungen; Restrukturierungskosten; Restrukturierungsmaßnahmen; Restrukturierungsrückstellungen; Sanierung; Sanierungsmaßnahme; Stellenabbau; Umstrukturierung; Wandel",
+        "url": "./pdfs/cues/15.pdf"
+      },
+      {
+        "id": 16,
+        "title": "Akquisition des Geschäftsjahres",
+        "keywords": "Akquisitionen; Anteilserwerb; Asset Deal; beizulegender Zeitwert; Erwerb; erworben; erworbene Abteilung; erworbener Geschäftsbereich; erworbenes Geschäftsfeld; erworbenes Segment; Fair Value; Fusion; Geschäfts- oder Firmenwert; Goodwill; immaterielle Vermögenswerte; Kauf; Kaufpreisallokation; M&A; Merger; Restrukturierungsrückstellungen; PPA; purchase price allocation; Tochterunternehmen; Transaktion; Unternehmenserwerb; Unternehmenskauf; Unternehmenszusammenschluss; Unternehmenszusammenschlüsse; Unternehmensübernahme; Verschmelzung; Wettbewerbsrecht; Zielunternehmen; Zusammenlegung",
+        "url": "./pdfs/cues/16.pdf"
+      },
+      {
+        "id": 17,
+        "title": "Liquiditäts-/Verschuldungskennzahlen",
+        "keywords": "Bilanzanalyse; Bilanzkennzahlen; Current Ratio; durchschnittliche; Eigenkapitalquote; Finanzen; Finanzkennzahlen; Forderungen; Fremdkapitalquote; Guthaben; Haltedauer; Jahresabschlusskennzahlen; Kennzahlen; KPIs; leverage ratio; Liquidität dritten Grades; Liquidität zweiten Grades; Liquiditätskennzahlen; Liquiditäts-Kennzahlen; Liquiditätskoeffizient; Quick Ratio; Ratios; Schuldenquote; Solvabilität; solvent; Solvenz; Umschlagsfrequenz; Umschlagshäufigkeit; Verschuldungsgrad; Verschuldungskennzahlen; Verschuldungs-Kennzahlen; Verschuldungsquote; Vorräte; Zahlungsfähigkeit",
+        "url": "./pdfs/cues/17.pdf"
+      },
+      {
+        "id": 18,
+        "title": "Finanzanlagen",
+        "keywords": "Aktien; Aktionärin; Anteile; Beteiligung; Beteiligungen; börsennotiert; Börsenpapiere; Dividende; Finanzanlagen; Finanzen; Finanzinstrument; gehandelte Aktien; Genussschein; Gläubigerin; Handel; Handelsinstrumente; Investitionen; Schuldnerin; Trading; Wertpapiere; Wertpapiergeschäfte; Wertpapierhandel; Zinsen",
+        "url": "./pdfs/cues/18.pdf"
+      },
+      {
+        "id": 19,
+        "title": "Lieferanten",
+        "keywords": "Anlieferung; Auslieferung; Belieferung; Beschaffung; Betriebsstoffe; gewerbliche Anbieter; Herstellerin; Hilfsstoffe; Lieferanten; Lieferantenbeziehungen; Lieferantenleistung; Lieferkette; Materialaufwand; Materiallieferung; Materialverbrauch; Rohmaterialien; Rohstoffe; Rohstofflieferung; Supply Chain; Verkäuferin; Vorräte; Zulieferbetrieb; Zulieferer; Zulieferfirma; Zulieferung",
+        "url": "./pdfs/cues/19.pdf"
+      },
+      {
+        "id": 20,
+        "title": "Forschung und Entwicklung",
+        "keywords": "Abschreibungen; Entdecken; Entwicklung; Entwicklungsaufwendungen; Entwicklungskosten; Erfindungen; Erforschung; Erkenntnis; F&E; Forschung; Forschung & Entwicklung; Forschung und Entwicklung; Forschungsaufwendungen; Forschungskosten; Fortschritt; Innovationen; Innovationsentwicklung; Patente; R&D; Research & Development; Technologieentwicklung; technologische Entwicklungskosten; Wissen",
+        "url": "./pdfs/cues/20.pdf"
+      },
+      {
+        "id": 21,
+        "title": "Ausgewählte Cashflow-Kennzahlen",
+        "keywords": "Cashflow aus laufender Geschäftstätigkeit; Cash Flow aus laufender Geschäftstätigkeit; Cashflow aus operativer Geschäftstätigkeit; Coverage; dynamische Verschuldung; dynamischer Verschuldungsgrad; Fähigkeit zur Cash-Generierung; Generierung, Erzeugung; Geschäftstätigkeit; Interest Cover Rate; Cashflowkennzahlen; Cashflow-Kennzahlen; KPIs; operativer; operativer Cashflow; operativer Cash Flow; operativer Cash-Flow; operativer Cashflow; Zahlungsmittel; Zahlungsmitteläquivalente; Zinsdeckungsgrad Cashflow aus dem operativen Geschäft",
+        "url": "./pdfs/cues/21.pdf"
+      },
+      {
+        "id": 22,
+        "title": "Ausgewählte Profitabilitätskennzahlen",
+        "keywords": "Betriebsergebnis; Bruttoergebnis vom Umsatz; EBIT, EBITDA; Eigenkapitalrendite; Eigenkapitalrentabilität; Ertragskraft; Gesamtkapital; Gesamtkapitalrendite; Gesamtkapitalrentabilität; Jahreserfolg; Jahresergebnis; Jahresüberschuss; Kapital; Kapitaleinsatz; Kapitalrendite; Kapitalrentabilität; Kapitalumschlag; Profitabilitätskennzahlen; Profitabilitäts-Kennzahlen; KPIs; Profitabilität; Rendite; Rentabilität; Return On Assets; return on assets; Return on Capital Employed; return on capital employed; Return On Equity; return on equity; Return On Investment; return on investment; ROA; ROCE; ROE; Rohertragsmarge; ROI; Umsatzerlöse;  Umsatzrentabilität; Verzinsung; Zins",
+        "url": "./pdfs/cues/22.pdf"
+      },
+      {
+        "id": 23,
+        "title": "Kurzfristige Verbindlichkeiten",
+        "keywords": "Abfluss von Ressourcen; Abgrenzungsposten; Ausgaben; Finanzen; finanzielle Verbindlichkeiten; Handelsverbindlichkeiten; kurzfristige Schulden; kurzfristige Verbindlichkeiten; Lieferantenverbindlichkeiten; Lieferverbindlichkeiten; Liquiditätsabfluss; Rechnungsabgrenzungsposten; Restrukturierungsrückstellung; Rückstellungsauflösung; Rückzahlung; sonstige Verbindlichkeiten; Verbindlichkeiten aus Lieferungen und Leistungen; Verbindlichkeiten aus LuL; Verpflichtung",
+        "url": "./pdfs/cues/23.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a.external:hover {
+  color: rgb(47, 138, 243)
+}
